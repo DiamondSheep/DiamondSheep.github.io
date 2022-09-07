@@ -10,6 +10,6 @@ citation: 'Gao, Yangcheng, et al. "Dictionary Pair-based Data-Free Fast Deep Neu
 ---
 We propose a new deep model compression method, termed Dictionary Pair-based Data-Free Fast DNN Compression, which aims at reducing the memory consumption of DNNs without extra training and can greatly improve the compression efficiency.
 
-[Download paper here](/files/Dictionary_Pair-based_Data-Free_Fast_Deep_Neural_Network_Compression.pdf)
+(Download paper)[/files/Dictionary_Pair-based_Data-Free_Fast_Deep_Neural_Network_Compression.pdf]
 
 Recommended citation: Gao, Yangcheng, et al. "Dictionary Pair-based Data-Free Fast Deep Neural Network Compression." 2021 IEEE International Conference on Data Mining (ICDM). IEEE, 2021.
