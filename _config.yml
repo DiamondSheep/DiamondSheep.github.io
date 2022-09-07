@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "DiamondSheep"
 title_separator          : "-"
 name                     : &name "Yangcheng Gao"
-description              : &description "A HFUT master student"
+description              : &description "HFUT master student"
 url                      : https://DiamondSheep.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DiamondSheep.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yangcheng Gao"
   avatar           : "image.jpg"
-  bio              : "A HFUT master student"
+  bio              : "HFUT master student"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
