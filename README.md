@@ -3,6 +3,7 @@ This repository was forked (then detached) by [academicpages](https://github.com
 
 # Usage
  * ```_config.yml``` - settings that affect the entire site
+ * ```_data/navigation.yml``` - settings to the site navigator
 
 # Instructions
 
