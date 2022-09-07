@@ -11,6 +11,6 @@ citation: 'Gao, Yangcheng, et al. "ClusterQ: Semantic Feature Distribution Align
 ---
 We propose a new and effective data-free quantization method termed ClusterQ, which utilizes the semantic feature distribution alignment for synthetic data generation.
 
-(Download paper)[/files/2205.00179.pdf]
+[Download paper](/files/2205.00179.pdf)
 
 Recommended citation: Gao, Yangcheng, et al. "ClusterQ: Semantic Feature Distribution Alignment for Data-Free Quantization." arXiv preprint arXiv:2205.00179 (2022).
