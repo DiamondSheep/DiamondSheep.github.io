@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automotive Engineering, Hefei University of Technology, 2015~2019
-* M.S. in Computer Science, Hefei University of Technology, 2020~2023(expected)
+* B.S. in **Automotive Engineering**, *Hefei University of Technology*, 2015~2019
+* M.S. in **Computer Science**, *Hefei University of Technology*, 2020~2023 (expected)
 
 Research Interesting 
 ======
@@ -24,7 +24,7 @@ Work experience
 ======
 * Spring 2022: Research Intern
   * Shanghai AI Laboratory
-  * Duties included: Quantization Theory Research
+  * Duties included: **Model Quantization Theory Research**
   * Supervisor: Dong Wang
   
 Skills
