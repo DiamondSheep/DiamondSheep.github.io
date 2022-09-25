@@ -13,4 +13,5 @@ Two-wheeled Robot
 ======
 
 
-![alt text](/images/two_wheeled_robot.jpg "Two-wheeled Robot")
+<img src="/images/two_wheeled_robot.jpg" width="60%" height="60%">
+
