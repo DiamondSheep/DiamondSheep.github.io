@@ -10,5 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Two-wheeled Robot
+======
+
 
 ![alt text](/images/two_wheeled_robot.jpg "Two-wheeled Robot")
