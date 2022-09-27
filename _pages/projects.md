@@ -40,7 +40,7 @@ Pickup-Tennis Robot
 
 * Introduction
 
-  This is a project for the National Undergraduate Training Program for Innovation and Entrepreneurship. With a monocular camera (Pi camera V1), a Raspberry Pi 3B and a roller mechanism, the robot can detect, track and "pick up" the tennis. The project fail in half, due to the Raspberry processed the image quite slowly. I built it in 2017 and lost all of the code.
+  This is a project for the National Undergraduate Training Program for Innovation and Entrepreneurship. With a monocular camera (Pi camera V1), a Raspberry Pi 3B and a roller mechanism, the robot can detect, track and "pick up" the tennis. The project fail in half, due to the Raspberry Pi processed the image quite slowly. I built it in 2017 and lost all of the code.
 
 <center>
 <img src="/images/tennis_robot.jpg" width="75%" height="75%">
