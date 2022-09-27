@@ -20,6 +20,7 @@ Two-wheeled Robot
 <img src="/images/two_wheeled_robot.jpg" width="75%" height="75%">
 </center>
 
+</br>
 
 Jetson Robot
 ======
@@ -32,6 +33,7 @@ Jetson Robot
 <img src="/images/Jetson_robot.png" width="75%" height="75%">
 </center>
 
+</br>
 
 Pickup-Tennis Robot
 ======
@@ -43,3 +45,5 @@ Pickup-Tennis Robot
 <center>
 <img src="/images/tennis_robot.jpg" width="75%" height="75%">
 </center>
+
+</br>
