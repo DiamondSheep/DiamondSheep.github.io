@@ -21,14 +21,12 @@ Two-wheeled Robot
 </center>
 
 
-Two-wheeled Robot
+Jetson Robot
 ======
 
 * Introduction
 
-  This is the previous version of the above project. With a monocular camera (Pi Camera V2) and an NVIDIA Jetson Nano, this robot can perform some vision tasks, such as detection, segmentation. I built its hardware part with a L298N as motor driver and a PCA9685 as servo controller. But I removed the motor controller code because it's unsafe to directly connect L298N to Jetson Nano. So now it becomes an experiment platform for DNN model deployment.
-
-[Code](https://github.com/DiamondSheep/Jetson_Project)
+  This is the previous version of the above project. With a monocular camera (Pi Camera V2) and an NVIDIA Jetson Nano, this robot can perform some vision tasks, such as detection, segmentation. I built its hardware part with a L298N as motor driver and a PCA9685 as servo controller. But I removed the motor controller code because it's unsafe to directly connect L298N to Jetson Nano. So now it becomes an experiment platform for DNN model deployment. [Code](https://github.com/DiamondSheep/Jetson_Project)
 
 <center>
 <img src="/images/Jetson_robot.jpg" width="75%" height="75%">
