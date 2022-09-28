@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yangcheng Gao is currently a master student of Hefei University of Technology (HFUT), majoring in Computer Science, under the supervision of [Zhao Zhang](https://sites.google.com/site/cszzhang). He focuses on the theories and algorithms for accelerating the DNN model, model deployment and model efficiency. His research interests include low-bit quantization and weight decomposition. Besides, he also focus on the applications of DNN on robotics.
+Yangcheng Gao is currently a master student of [Hefei University of Technology](https://en.hfut.edu.cn/) (HFUT), majoring in **Computer Science**, under the supervision of [Zhao Zhang](https://sites.google.com/site/cszzhang). Previously he was graduated also from HFUT but majoring in **Automotive Engineering**. He focuses on the theories and algorithms for **DNN model accelaration**, **model deployment** and **model efficiency**. His research interests include **low-bit quantization** and **weight decomposition**. Besides, he also focus on the applications of DNN on robotics.
 
 News
 ======

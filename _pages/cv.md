@@ -19,11 +19,20 @@ Research Interesting
 * Machine Learning
 * Deep Model Compression and Acceleration
 * Low-bit Quantization
+* Robotics
 
-Work experience
+Publications
 ======
-* Spring 2022: Research Intern
-  * Shanghai AI Laboratory
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Work Experience
+======
+* Spring 2022: **Shanghai AI Laboratory**  Research Intern
+  
+  <img src="/images/shlab.png" align='right' width="80%" height="80%"/>
+
   * Duties included: **Model Quantization Theory Research**
   * Supervisor: Dong Wang
   
@@ -35,9 +44,3 @@ Skills
   * PyTorch
   * NumPy
   * TensorRT & ncnn (for model deployment)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
