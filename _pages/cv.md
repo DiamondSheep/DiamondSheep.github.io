@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,13 +25,13 @@ redirect_from:
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  </ul>
+  {% endfor %}</ul>
 
 ## Work Experience
 
-* Spring 2022: **Shanghai AI Laboratory**  Research Intern
+* Spring 2022: [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)  Research Intern
   
-  <img src="/images/shlab.png" align='right' width="80%" height="80%"/>
+  <img src="/images/shlab.png" align='right' width="30%" height="30%"/>
 
   * Duties included: **Model Quantization Theory Research**
   * Supervisor: Dong Wang
