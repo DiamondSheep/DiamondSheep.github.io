@@ -29,9 +29,9 @@ redirect_from:
 
 ## Work Experience
 
+  <img src="/images/shlab.png" align='right' width="25%" height="25%"/>
+
 * Spring 2022: [**Shanghai AI Laboratory**](https://www.shlab.org.cn/)  Research Intern
-  
-  <img src="/images/shlab.png" align='right' width="30%" height="30%"/>
 
   * Duties included: **Model Quantization Theory Research**
   * Supervisor: Dong Wang
