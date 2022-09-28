@@ -9,26 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.S. in **Automotive Engineering**, *Hefei University of Technology*, 2015~2019
 * M.S. in **Computer Science**, *Hefei University of Technology*, 2020~2023 (expected)
 
-Research Interesting 
-======
+## Research Interesting 
+
 * Machine Learning
 * Deep Model Compression and Acceleration
 * Low-bit Quantization
 * Robotics
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  </ul>
 
-Work Experience
-======
+## Work Experience
+
 * Spring 2022: **Shanghai AI Laboratory**  Research Intern
   
   <img src="/images/shlab.png" align='right' width="80%" height="80%"/>
@@ -36,8 +36,8 @@ Work Experience
   * Duties included: **Model Quantization Theory Research**
   * Supervisor: Dong Wang
   
-Skills
-======
+## Skills
+
 * Python
 * C++
 * Machine Learning Tools
