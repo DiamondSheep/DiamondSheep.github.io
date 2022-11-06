@@ -19,7 +19,6 @@ author_profile: true
 
 Preprints & Working Papers
 ======
-<br/>
 
 * Zhao Zhang, **Yangcheng Gao**, et al. "SelectQ: Calibration Data Selection for Post-Training Quantization," submitted to *CVPR*, 2023.
 
