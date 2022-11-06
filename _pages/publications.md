@@ -22,6 +22,6 @@ Preprints & Working Papers
 
 * Yan Luo#, **Yangcheng Gao**#, et al. "SelectQ: Calibration Data Selection for Post-Training Quantization," submitted to *CVPR*, 2023.
 
-* **Yangcheng Gao**, Zhao Zhang, et al. "ClusterQ: Semantic Feature Distribution Alignment for Data-Free Quantization," submitted to *TNNLLS*, 2023.
+* **Yangcheng Gao**, Zhao Zhang, et al. "ClusterQ: Semantic Feature Distribution Alignment for Data-Free Quantization," submitted to *TNNLS*, 2022.
 
 * **Yangcheng Gao**, Zhao Zhang, "Fast Data-free Deep Neural Network Compression with Dictionary Pair Learning," submitted to *KAIS*, 2022.
