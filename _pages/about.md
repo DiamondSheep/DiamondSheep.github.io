@@ -16,4 +16,4 @@ News
 - **[ 26 September 2022]** Congratulations! Yangcheng Gao received **National Scholarship**.
 - **[ 15 September 2022]** ECCV MIPI 2022 Challenge on Under-Display Camera Image Restoration results are released now. Our team got ***Fifth Place***!
 - **[ 1 September 2022 ]** The paper "[Towards Feature Distribution Alignment and Diversity Enhancement for Data-Free Quantization](/publication/icdm-2022-clusterq)" has been accepted by IEEE ICDM 2022.
-- **[ 31 August 2021 ]** The paper "[Dictionary Pair-based Data-Free Fast Deep Neural Network Compression](/publication/icdm-2021-dict)" has been accepted by IEEE ICDM 2021, and invited for KAIS journal publication as "Best-ranked" paper.
+- **[ 31 August 2021 ]** The paper "[Dictionary Pair-based Data-Free Fast Deep Neural Network Compression](/publication/icdm-2021-dict)" has been accepted by IEEE ICDM 2021, and invited for KAIS journal publication as "***Best-ranked***" paper.
