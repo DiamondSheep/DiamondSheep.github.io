@@ -22,6 +22,8 @@ Two-wheeled Robot
 
 ---
 
+<br/>
+
 Jetson Robot
 ======
 
@@ -35,6 +37,8 @@ Jetson Robot
 
 ---
 
+<br/>
+
 Pickup-Tennis Robot
 ======
 
@@ -47,6 +51,8 @@ Pickup-Tennis Robot
 </center>
 
 ---
+
+<br/>
 
 FSEC 2017
 ======
